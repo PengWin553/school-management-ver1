@@ -1,0 +1,22 @@
+.actions-container{
+	/* background: green; */
+	display: flex; 
+	align-items: center; 
+	font-size: 20px; 
+	justify-content: space-around;
+}
+
+.action-icon{
+	padding: 5px;
+	border-radius: 8px;
+}
+
+.bx-edit-alt:hover{
+	background: #3F4DA2;
+	color: white;
+}
+
+.bx-trash:hover{
+	background: #E64C41;
+}
+
